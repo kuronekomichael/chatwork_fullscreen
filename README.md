@@ -1,1 +1,4 @@
-# chatwork_fullscreen
+# Fullscreen Chatwork
+
+![](before.png)
+![](after.png)
